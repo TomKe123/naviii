@@ -21,8 +21,12 @@
     "title": "项目网站(感谢github的各位大佬)",
     "items": [
       {
-        "title": "音乐",
+        "title": "音乐(PC端)",
         "link": "music.tomsite.us.kg"
+      },
+      {
+        "title": "音乐(全平台)",
+        "link": "m.music.tomsite.us.kg"
       },
       {
         "title": "博客",

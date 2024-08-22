@@ -39,6 +39,10 @@
         "title": "网易云API",
         "link": "neteaseapi.tomsite.us.kg"
         
+      },
+      {
+        "title": "ChatGPT(3.5-turbo)",
+        "link": "chat.tomsite.us.kg"
       }
     ]
   },

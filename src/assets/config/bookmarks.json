@@ -43,6 +43,10 @@
       {
         "title": "ChatGPT(3.5-turbo)",
         "link": "chat.tomsite.us.kg"
+      },
+      {
+        "title": "知识图谱",
+        "link": "kgraph.tomsite.us.kg"
       }
     ]
   },
